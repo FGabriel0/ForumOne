@@ -36,7 +36,7 @@ Certifique-se de que as seguintes ferramentas estão instaladas:
 1. Clone este repositório:
    ```bash
    git clone https://github.com/FGabriel0/ForumOne.git
-   cd forum-spring-boot
+   cd ForumOne
 
 2. **Configure o banco de dados:**
    - Crie um banco chamado `forumhub`.
